@@ -1,6 +1,2 @@
 upstream test
 nothing to see here
-
-fixed an error here
-
-of course we want to do this live
