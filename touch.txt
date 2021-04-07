@@ -1,4 +1,2 @@
 upstream test
 nothing to see here
-
-a year from now, we're updating the site template
