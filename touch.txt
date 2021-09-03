@@ -1,10 +1,2 @@
 upstream test
 nothing to see here
-
-new feature
-
-new theme code
-
-fix an error
-
-added another feature
