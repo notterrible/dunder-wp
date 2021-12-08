@@ -1,4 +1,2 @@
 upstream test
 nothing to see here
-
-nothing beats a super quick live demo
