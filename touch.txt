@@ -2,3 +2,5 @@ upstream test
 nothing to see here
 
 we're adding an SSO plugin
+
+now adding CRM plugin
