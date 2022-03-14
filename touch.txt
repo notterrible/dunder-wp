@@ -6,3 +6,5 @@ we're adding an SSO plugin
 now adding CRM plugin
 
 and now a live demo
+
+deployment artifact
