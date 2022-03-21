@@ -8,3 +8,5 @@ now adding CRM plugin
 and now a live demo
 
 deployment artifact
+
+everybody always cringes when I do this.
