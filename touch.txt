@@ -4,3 +4,5 @@ nothing to see here
 we're adding an SSO plugin
 
 we're doing some bug fixes
+
+added a few cool features.
