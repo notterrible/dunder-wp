@@ -6,3 +6,5 @@ added a few cool features.
 doing some code cleanup and adding new features.
 
 adding some organizational plugins
+
+updating the theme
