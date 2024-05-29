@@ -6,3 +6,5 @@ security update
 
 
 update some plugins
+
+updated more plugins
