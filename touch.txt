@@ -8,3 +8,5 @@ security update
 update some plugins
 
 updated more plugins
+
+updating the core SSO plugin
