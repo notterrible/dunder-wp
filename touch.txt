@@ -7,3 +7,5 @@ security update
 adding some additional functionality
 
 do another security update
+
+add a new plugin
