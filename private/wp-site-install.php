@@ -9,6 +9,6 @@ if (isset($_POST['environment'])) {
   echo "Installing WordPress core...\n";
   $title = $meta['label'];
   $email = $_POST['user_email'];
-  system("wp core install --title='{$title}' --admin_user=superuser --admin_email='{$email}'");
+  system("wp core install --title='{$title}' --admin_user=superuser --admin_email='{$email}' --admin_password='changeme'");
   echo "Installation complete.\n";
 }
